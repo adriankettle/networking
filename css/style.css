@@ -1,0 +1,60 @@
+*{
+  margin: 0;
+  font-family: sans-serif;
+}
+
+h3{
+  text-align: center;
+  color: blue;
+  padding: 2px;
+}
+
+#navbar{
+  background-color: lightblue;
+  padding: 15px;
+}
+
+#output{
+  background-color: steelblue;
+  color: white;
+  padding: 15px;
+  align-items: center;
+}
+
+h4{
+  text-align: left;
+  color: steelblue;
+}
+
+.color{
+  color: red;
+}
+
+input{
+  background-color: lightpink;
+  padding: 2px;
+  border-radius: 10px;
+  text-indent: 4px;
+}
+
+#btn{
+  background-color: lightblue;
+  color: coral;
+  border-radius: 8px;
+}
+
+#order{
+  background-color: lightblue;
+}
+
+#table{
+  background-color: steelblue;
+  color: white;
+}
+
+.danger{
+  background-color: red;
+  color: black;
+  padding: 2px;
+  border-radius: 2px;
+}
